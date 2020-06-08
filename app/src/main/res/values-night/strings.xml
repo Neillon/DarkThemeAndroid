@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_theme">Change Theme</string>
+    <string name="app_theme">Dark Theme</string>
+    <string name="text_hello">Hello fom dark!</string>
+</resources>
